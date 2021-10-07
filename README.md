@@ -1,5 +1,4 @@
 # GPT-NEO
-Text Generating Model
 
 GPT model is NLP model allows you to to do many tasks on text, including text genaration, summarization and Q&A
 
